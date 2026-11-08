@@ -58,7 +58,6 @@ After removing duplicates, I re-ran the cell that loads the file. This quietly l
 - **Association is not proof.** COD orders cancel more, but I have not shown that COD *causes* it. That is why the first recommendation is a pilot.
 - **I made judgement calls.** I blanked 49 impossible delivery times (clock errors) and kept the orders, so revenue stays whole. The average moved from 27.2 to 25.7 minutes. Blanks in customer type (317) and payment method (227) were kept, so they drop out of any grouping by those columns.
 - **Short history.** The 45% growth compares one month with the same month a year earlier. The data covers only 18 months and one Diwali.
-- **Claude helped.** Claude helped build the dataset and guided me through the analysis. I ran the notebook, made the cleaning calls and wrote the findings.
 
 ## Appendix
 
